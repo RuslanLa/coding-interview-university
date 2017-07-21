@@ -1,4 +1,4 @@
-# Coding Interview University
+﻿# Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
@@ -53,9 +53,9 @@ If you want to be a reliability engineer or systems engineer, study more from th
 
 ## Table of Contents
 
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
+- [x] [What is it?](#what-is-it)
+- [x] [Why use it?](#why-use-it)
+- [x] [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
